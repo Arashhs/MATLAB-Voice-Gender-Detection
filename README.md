@@ -1,2 +1,2 @@
 # MATLAB-Voice-Gender-Detection
-Gender detection code for MATLAB based on voice files. Final project for my Signals and Systems course
+This project is a gender detection application based on audio files written in MATLAB for the final project of my Signals and Systems course.
